@@ -82,7 +82,7 @@ const ViewStyleProps = ({navigation}) => {
                 style={{
                   color: '#ffff',
                   alignSelf: 'center',
-                  fontSize: 36,
+                  fontSize: 38,
                   marginBottom: 48,
                   textAlign: 'center',
                 }}
