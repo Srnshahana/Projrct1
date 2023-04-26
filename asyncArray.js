@@ -75,7 +75,7 @@ const ViewStyleProps = ({navigation}) => {
               resizeMode="cover"
               style={{
                 height: 500,
-                width: 300,
+                width: 400,
                 justifyContent: 'center',
               }}>
               <Text
