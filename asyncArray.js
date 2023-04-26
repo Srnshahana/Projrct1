@@ -89,7 +89,7 @@ const ViewStyleProps = ({navigation}) => {
               />
               <Text
                 style={{
-                  color: 'black',
+                  color: 'red',
                   alignSelf: 'center',
                   fontFamily: 'italic',
                 }}>
